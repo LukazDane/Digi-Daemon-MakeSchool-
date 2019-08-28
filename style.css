@@ -1,0 +1,45 @@
+ul {
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+a {
+  text-decoration: none;
+}
+.zepeto {
+  position: fixed;
+  bottom: 0;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-color: aqua;
+}
+
+.nav-item {
+  width: 33%;
+  display: inline-block;
+  text-align: center;
+}
+
+#one,
+#two,
+#three {
+  height: 100vh;
+}
+
+#one {
+  background-color: beige;
+}
+
+#two {
+  background-color: cornflowerblue;
+}
+
+#three {
+  background-color: mediumspringgreen;
+}
